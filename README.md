@@ -43,11 +43,12 @@ A secure, full-stack file upload and download web application built using **Node
 - JWT + Cookies for Auth
 - Multer for file upload
 
----
 
-## 🧪 Run Locally
+```markdown
+## 🧪 Running the App
 
-```bash
-git clone https://github.com/MrAnkurSingh/my-file-drive-app.git
-cd my-file-drive-app
-npm install
+1. Clone the repository //git clone https://github.com/MrAnkurSingh/my-file-drive-app.git
+2. Run `npm install`
+3. Create `.env` using ` `.env` (example)
+4. Start the server: `npm start` or `nodemon index or app`
+5. Visit [(http://localhost:3000)
