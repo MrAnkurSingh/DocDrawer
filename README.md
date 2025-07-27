@@ -19,7 +19,6 @@ A secure, full-stack file upload and download web application built using **Node
 
 ## 📸 Preview
 
-![Screenshot](./preview.png)
 <img width="2544" height="1511" alt="image" src="https://github.com/user-attachments/assets/47c5c5a7-eb4f-473f-8e68-adc264a36ef9" />
 <img width="2546" height="1503" alt="image" src="https://github.com/user-attachments/assets/c14aae79-b551-4d75-8635-764d05453d31" />
 <img width="2554" height="1512" alt="image" src="https://github.com/user-attachments/assets/b383e66a-f89d-4356-a56e-917290dfbd6f" />
