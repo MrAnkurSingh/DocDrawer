@@ -20,3 +20,10 @@ app.use(express.urlencoded({extended:true}))
 
 app.use('/',indexRouter)
 app.use('/user',userRouter);
+
+
+
+app.listen(3000,()=>{
+    console.log("Server is runnig on port 3000")
+});
+
